@@ -1,4 +1,3 @@
-// Using C++ by: jasonpogi
 #include <bits/stdc++.h>
 
 using namespace std;
